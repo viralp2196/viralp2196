@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**viralp2196/viralp2196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Viral Panchal 👋
 
-Here are some ideas to get you started:
+**`Mobile Developer | Flutter & Dart Enthusiast | Tech Blogger`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I’m a developer passionate about mobile apps, clean code, and learning new tech.
+
+---
+
+### 🌟 About Me
+- 🌱 I’m learning **ReactJS, NodeJS**
+- 💬 Ask me about Flutter, Swift, or Android development
+- 📫 Reach me at: [viralpanchal2196@hotmail.com]
+
+---
+
+### 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+---
+
